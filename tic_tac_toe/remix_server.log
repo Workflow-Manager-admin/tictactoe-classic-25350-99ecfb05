@@ -1,0 +1,13 @@
+
+> dev
+> remix vite:dev --host 0.0.0.0 --port 3000
+
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.17.0.2:3000/
+5:05:33 PM [vite] vite.config.ts changed, restarting server...
+5:05:33 PM [vite] server restarted.
+5:05:42 PM [vite] vite.config.ts changed, restarting server...
+5:05:42 PM [vite] server restarted.
+5:05:48 PM [vite] vite.config.ts changed, restarting server...
+5:05:48 PM [vite] server restarted.
