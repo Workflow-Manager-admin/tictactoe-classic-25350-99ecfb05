@@ -11,3 +11,7 @@
 5:05:42 PM [vite] server restarted.
 5:05:48 PM [vite] vite.config.ts changed, restarting server...
 5:05:48 PM [vite] server restarted.
+5:06:23 PM [vite] (client) hmr update /app/routes/_index.tsx, /app/tailwind.css
+5:06:23 PM [vite] (client) hmr update /app/routes/_index.tsx, /app/tailwind.css
+5:06:23 PM [vite] (client) hmr update /app/routes/_index.tsx, /app/tailwind.css
+5:06:23 PM [vite] (ssr) page reload app/routes/_index.tsx
